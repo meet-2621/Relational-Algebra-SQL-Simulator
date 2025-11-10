@@ -29,7 +29,7 @@ It includes hands-on examples for operations such as **Selection, Projection, Jo
 ## 🪜 Steps to Run
 1. Clone the repository  
    ```bash
-   git clone 
+   git clone https://github.com/meet-2621/Relational-Algebra-SQL-Simulator
 Open your SQL environment (MySQL, PostgreSQL, or Oracle).
 
 Run the script file relational_algebra_simulator.sql.
